@@ -488,7 +488,12 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.contact {
+  font-size: 2rem;
   font-weight: 300;
 }
 
@@ -7664,6 +7669,7 @@ textarea.form-control-lg {
 }
 
 .mb-4 {
+  font-size: large;
   margin-bottom: 1.5rem !important;
 }
 
